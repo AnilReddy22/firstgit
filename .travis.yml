@@ -6,4 +6,4 @@ matrix:
      -clang
     script:  
         - gcc -o anil_1 anil_1.c 
-        - ./anil_1
+        - ./anil_1.c
