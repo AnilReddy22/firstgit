@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+ int a,b,c,d;
+ printf("Enter two numbers");
+ scanf("%d %d",&a &b);
+ c=a+b;
+ printf("Addition of a and b is %d",c);
+ d=a-b;
+ printf("Subtraction of a and b is %d",d);
+}
